@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+}
+header{
+    background-color: black;
+    color: rgb(252, 252, 252);
+}
+/* <p style="text-align:center"> */
+nav{
+    display: flex;
+    text-align: center ;
+    margin: 0 auto;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    width: 400px;
+    background-color: blue;
+}
+div{
+    background-color: brown;
+}
